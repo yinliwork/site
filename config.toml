@@ -1,0 +1,7 @@
+baseURL = "https://yinli.work/"
+languageCode = "zh_CN"
+title = "引力社"
+theme = "hugo-cards"
+paginate = 6
+
+
