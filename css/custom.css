@@ -1,1 +1,8 @@
 /*Add your custom css here. This will override any existinc thems css*/
+.panel-body {
+ overflow: hidden;
+ display: -webkit-box;
+ -webkit-line-clamp: 2;
+ -webkit-box-orient: vertical;
+
+}
